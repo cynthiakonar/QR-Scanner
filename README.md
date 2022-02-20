@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/89989829/152540271-423c7ec6-ee53-4533-
 **Resources Used:** 
 - [YouTube](https://youtube.com)
 - [Dart & Flutter Packages](https://pub.dev/)
-- Dark Netflix Rest API (https://github.com/swetankraj/dark-netflix-api)
+- [Dark Netflix Rest API](https://github.com/swetankraj/dark-netflix-api)
 
 <br>
 
