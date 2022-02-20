@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010938980534",
+    "project_id": "cynthia-qr-scanner",
+    "storage_bucket": "cynthia-qr-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010938980534:android:d3dc2d1f2ab01cb963de17",
+        "android_client_info": {
+          "package_name": "com.cynthia.qr_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010938980534-rbb71ijalrplsqa6c057sroedu2k622u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cynthia.qr_scanner",
+            "certificate_hash": "74d7ba16847f3cb2fe1a103d2d78f2464955b8ff"
+          }
+        },
+        {
+          "client_id": "1010938980534-v8r9mudij6nu4i84eldlig51kq881t1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5QrfrCBGdD9jomMbcV1VrZjh6w2tUXDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010938980534-v8r9mudij6nu4i84eldlig51kq881t1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
