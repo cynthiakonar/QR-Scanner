@@ -11,6 +11,7 @@ https://user-images.githubusercontent.com/89989829/152540271-423c7ec6-ee53-4533-
 **Features:** 
 - Scan QR Codes
 - Scan 2D Barcodes
+- Scan QR code of the popular Netflix series "Dark" and display character details
 - Flash Control while Scanning
 - View Scan History
 - Open URL links after Scanning
@@ -19,16 +20,21 @@ https://user-images.githubusercontent.com/89989829/152540271-423c7ec6-ee53-4533-
 
 **Tools Used:** 
 - VSCode 
+- Dart
 - Flutter 
 
 **Packages Used:** 
 - barcode_scan2
 - url_launcher
+- http
+- firebase_auth
+- cloud_firestore
 
 **Resources Used:** 
 - [YouTube](https://youtube.com)
 - [Dart & Flutter Packages](https://pub.dev/)
+- Dark Netflix Rest API (https://github.com/swetankraj/dark-netflix-api)
 
 <br>
 
-Updated on 4 February 2022
+Updated on 20 February 2022
