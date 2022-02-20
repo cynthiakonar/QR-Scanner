@@ -4,9 +4,10 @@
 
 ## App To Scan QR Code 
 
-https://user-images.githubusercontent.com/89989829/152540271-423c7ec6-ee53-4533-ae41-b1e71e999e9c.mp4
+https://user-images.githubusercontent.com/89989829/154832427-fe3d2cb4-f962-4283-8682-b70429125dbf.mp4
 
 <br>
+
 
 **Features:** 
 - Scan QR Codes
