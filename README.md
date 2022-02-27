@@ -1,6 +1,6 @@
 # QR-Scanner
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cynthiakonar/food-info-app/qr-scan-v1?style=plastic) ![Lines of code](https://img.shields.io/github/tokei/lines/github/cynthiakonar/food-info-app/qr-scan-v1?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/cynthiakonar/food-info-app/qr-scan-v1?style=plastic)  ![GitHub issues](https://img.shields.io/github/issues/cynthiakonar/food-info-app/qr-scan-v1?style=plastic)  ![GitHub Repo stars](https://img.shields.io/github/stars/cynthiakonar/food-info-app/qr-scan-v1?style=plastic) 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cynthiakonar/QR-Scanner?style=plastic) ![Lines of code](https://img.shields.io/github/tokei/lines/github/cynthiakonar/QR-Scanner?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/cynthiakonar/QR-Scanner?style=plastic)  ![GitHub issues](https://img.shields.io/github/issues/cynthiakonar/QR-Scanner?style=plastic)  ![GitHub Repo stars](https://img.shields.io/github/stars/cynthiakonar/QR-Scanner?style=plastic) 
 
 ## App To Scan QR Code 
 
