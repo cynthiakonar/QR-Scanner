@@ -5,7 +5,10 @@
 ## App To Scan QR Code 
 
 https://user-images.githubusercontent.com/89989829/154832427-fe3d2cb4-f962-4283-8682-b70429125dbf.mp4
+
 <img src="https://github.com/cynthiakonar/QR-Scanner/assets/89989829/f48ded4a-8ab8-44f9-846b-9a898726061e" width="200">
+<img src="https://github.com/cynthiakonar/QR-Scanner/assets/89989829/ceb368d0-db2e-468f-b4a0-7787a84f6f84" width="200">
+<img src="https://github.com/cynthiakonar/QR-Scanner/assets/89989829/ca45ad42-78d2-4e8d-99ca-95d0f3b2ae61" width="200">
 
 
 <br>
