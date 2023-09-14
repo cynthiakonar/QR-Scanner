@@ -6,7 +6,7 @@
 
 https://user-images.githubusercontent.com/89989829/154832427-fe3d2cb4-f962-4283-8682-b70429125dbf.mp4
 
-<img src="[https://github.com/cynthiakonar/QR-Scanner/assets/89989829/f48ded4a-8ab8-44f9-846b-9a898726061e]" >
+<img src="https://github.com/cynthiakonar/QR-Scanner/assets/89989829/f48ded4a-8ab8-44f9-846b-9a898726061e" height="100">
 
 
 <br>
